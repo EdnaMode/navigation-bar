@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link ref="stylesheet" href="style.css" />
+  <title>Navigation Bar Tutorial</title>
+</head>
+  
+<nav>
+  <ul>
+     
+ <li><a href = "#Home"> Home </a></li>; 
+ <li><a href = "#About"> About </a></li>;
+ <li><a href = "#Contact"> Contact </a></li>
+ <li><a href = "#Gallery"> Gallery </a> </li>
+  </ul>
+</nav>
+</body>
+</html>
+
+<html>
+  <body>
+    <div id = "Home"> </div>
+    <img src = "http://www.divegallery.com/3rdTop_row.jpg"  height="650px" width="1300px" border="1px"></a>;  
+  
+  <div id = "About"> </div>
+   
+     <img src = "http://www.divegallery.com/trigger_Picasso.jpg" " height="650px" width="1300px" border="1px"></a>;      
+                                                                                                             
+                                                                                                             <div id = "Contact"> </div>
+     <img src = "https://cf1.tokopedia.net/blog-tokopedia-com/uploads/2015/10/tubbataha-reef.jpg"></a>
+     
+     
+     <div id = "Gallery"> </div>
+     <img src = 
+      "http://cacanhhanoi.com/wp-content/uploads/2014/10/Diem-danh-cac-loai-ca-canh-dep-nhat-dang-lam-mua-lam-gio-11.jpg" height="650px" width="1300px" border="1px"></a>;      
+                                        
+                        
+  </body></html>    
